@@ -4180,6 +4180,7 @@ input[type="button"].btn-block {
     display: flex !important;
     -ms-flex-preferred-size: auto;
     flex-basis: auto;
+    height: 20px;
   }
   .navbar-expand-lg .navbar-toggler {
     display: none;
@@ -8771,6 +8772,7 @@ button.bg-dark:focus {
 
 .text-center {
   text-align: center !important;
+  padding-bottom: 50px;
 }
 
 @media (min-width: 576px) {
